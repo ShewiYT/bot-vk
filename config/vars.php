@@ -6,8 +6,8 @@ $secret = "CAsda234";
 $v = "5.101";
 
 // COIN API
-$coin_key = "*WBPgzzzWNF1HjwhFLn_ZZ85lGFK8qpZK1VUJWp&!9trsT&e";
-$coin_id = "281856579";
+$coin_key = "3aCMKXVupvw*;LP;8cWGqmoFixvUA[mrZ=R[2729]AXn0.iQCe";
+$coin_id = "536282364";
 
 //User vars
 $invite_link = "https://vk.me/join/AJQ1d3sKrhJRCZxypv8rhzO6";
